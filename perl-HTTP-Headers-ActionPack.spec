@@ -7,7 +7,7 @@
 Summary:	HTTP::Headers::ActionPack - HTTP Action, Adventure and Excitement
 Name:		perl-HTTP-Headers-ActionPack
 Version:	0.09
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
